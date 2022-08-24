@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-<!--files
+<!--"git add <file
+
+git rm --cached <file>..." 
+
+git commit -m "Your message about the commit"
+
+git checkout -b <Bmcole12895>
+
+ git push origin Bmcole12895
+
+
 **Bmcole12895/Bmcole12895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
